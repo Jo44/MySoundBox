@@ -6,10 +6,10 @@ My Sound Box est une application Android qui permet de jouer des samples audio p
 Il est possible de personnaliser ces touches depuis une interface de paramétrage et d’y associer de nouveaux samples.  
 Formats audio supportés : MP3 / MP4 / FLAC / OGG / 3GP / WMA / M4A / WAV (16bits)  
 
-# Download - APK
+# Download
 
-* My Sound Box [v1.0] - Android 11+ :  
-
+* My Sound Box [v1.0 - APK - Android 11+] :  
+https://github.com/Jo44/MySoundBox/raw/refs/heads/main/MySoundBox_v1.0.apk
 
 # A propos
 
