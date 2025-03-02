@@ -7,7 +7,7 @@ Formats audio supportés : MP3 / MP4 / FLAC / OGG / 3GP / WMA / M4A / WAV (16bit
 
 # Downloads - Android 11+
 
-My Sound Box (v1.0) :  https://github.com/Jo44/MySoundBox/blob/1a9a3928947d19e714fad5870e48996a76762e22/MySoundBox_v1.0.apk
+My Sound Box (v1.0) :  [https://github.com/Jo44/MySoundBox/blob/1a9a3928947d19e714fad5870e48996a76762e22/MySoundBox_v1.0.apk](https://github.com/Jo44/MySoundBox/raw/1a9a3928947d19e714fad5870e48996a76762e22/MySoundBox_v1.0.apk)
 
 # A propos
 
