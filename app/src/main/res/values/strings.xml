@@ -1,0 +1,36 @@
+<resources>
+
+    <string name="app_name">My Sound Box</string>
+    <string name="confirmation">Confirmation</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="ok">OK</string>
+    <string name="back">Retour</string>
+    <string name="volume_up">Volume +</string>
+    <string name="volume_down">Volume -</string>
+    <string name="manage_samples">Gestion des samples</string>
+    <string name="change">Modifier</string>
+    <string name="all_reinit">Tout ré-initialiser</string>
+    <string name="reinit_samples_msg">Souhaitez-vous ré-initialiser tous les samples par défaut ?</string>
+    <string name="reinit_success">Ré-initialisation effectuée</string>
+    <string name="reinit_fail">Ré-initialisation échouée</string>
+    <string name="infos">Infos</string>
+    <string name="informations">Informations</string>
+    <string name="infos_msg">\'Parcourir\' permet de choisir le sample audio. Il faut ensuite ajouter un titre avant de pouvoir l\'enregistrer. \'Tester\' permet de vérifier si le fichier sélectionné est valide. \'Par défaut\' permet de ré-initialiser le sample par défaut.\n\nFormats audio supportés :\nMP3 / MP4 / FLAC / OGG / 3GP / WMA / M4A / WAV (16bits)\n\nFormat audio non-supporté :\nWAV (32bits)</string>
+    <string name="title">Titre :</string>
+    <string name="file">Fichier :</string>
+    <string name="browse">Parcourir</string>
+    <string name="test">Tester</string>
+    <string name="play_success">Le sample choisi est valide</string>
+    <string name="play_fail">Le lecteur ne prend pas en charge ce type de fichier audio, merci d\'en choisir un autre</string>
+    <string name="reinit">Par défaut</string>
+    <string name="reinit_msg">Souhaitez-vous ré-initialiser le sample par défaut ?</string>
+    <string name="save">Sauvegarder</string>
+    <string name="save_msg">Confirmer la sauvegarde du sample ?</string>
+    <string name="save_missing_title">Veuillez renseigner un titre avant de sauvegarder</string>
+    <string name="save_missing_filename">Veuillez sélectionner un fichier avant de sauvegarder</string>
+    <string name="save_success">Le sample a été enregistré</string>
+    <string name="save_fail">Erreur inattendue lors de l\'enregistrement</string>
+    <string name="exit_confirm_msg">Quitter sans sauvegarder ?</string>
+
+</resources>

@@ -1,0 +1,4 @@
+/build
+/release
+build.gradle.kts
+proguard-rules.pro

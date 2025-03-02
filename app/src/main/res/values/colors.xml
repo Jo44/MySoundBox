@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#3C3F40</color>      <!-- Background -->
+    <color name="colorPrimaryDark">#2B2B2B</color>  <!-- Barre de status en haut -->
+    <color name="colorAccent">#87939A</color>       <!-- Couleur de police par défaut + Focus -->
+    <color name="green">#40BA39</color>
+    <color name="black">#000000</color>
+
+</resources>

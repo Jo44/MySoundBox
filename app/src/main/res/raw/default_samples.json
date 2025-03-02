@@ -1,0 +1,76 @@
+{
+  "samples": [
+    {
+      "index": 0,
+      "name": "OSS 117 - Le Mossad",
+      "filename": "oss_117_mossad.mp3",
+      "uri": "android.resource://fr.mysoundbox/raw/oss_117_mossad"
+    },
+    {
+      "index": 1,
+      "name": "Matrix - Les pillules",
+      "filename": "matrix_pillules.mp3",
+      "uri": "android.resource://fr.mysoundbox/raw/matrix_pillules"
+    },
+    {
+      "index": 2,
+      "name": "Demolition Man - Les 3 coquillages",
+      "filename": "demolition_man_coquillages.mp3",
+      "uri": "android.resource://fr.mysoundbox/raw/demolition_man_coquillages"
+    },
+    {
+      "index": 3,
+      "name": "OSS 117 - La secrétaire",
+      "filename": "oss_117_secretaire.mp3",
+      "uri": "android.resource://fr.mysoundbox/raw/oss_117_secretaire"
+    },
+    {
+      "index": 4,
+      "name": "Snatch - Les chiens",
+      "filename": "snatch_chiens.mp3",
+      "uri": "android.resource://fr.mysoundbox/raw/snatch_chiens"
+    },
+    {
+      "index": 5,
+      "name": "Bernie - Les hyènes",
+      "filename": "bernie_hyenes.mp3",
+      "uri": "android.resource://fr.mysoundbox/raw/bernie_hyenes"
+    },
+    {
+      "index": 6,
+      "name": "OSS 117 - L'amicale d'ancien Nazi",
+      "filename": "oss_117_amicale_ancien_nazi.mp3",
+      "uri": "android.resource://fr.mysoundbox/raw/oss_117_amicale_ancien_nazi"
+    },
+    {
+      "index": 7,
+      "name": "Full Metal Jacket - Deuxième pompe",
+      "filename": "full_metal_jacket_deuxieme_pompe.mp3",
+      "uri": "android.resource://fr.mysoundbox/raw/full_metal_jacket_deuxieme_pompe"
+    },
+    {
+      "index": 8,
+      "name": "La Haine - C'est à moi que tu parles ?",
+      "filename": "la_haine_cest_a_moi_que_tu_parles.mp3",
+      "uri": "android.resource://fr.mysoundbox/raw/la_haine_cest_a_moi_que_tu_parles"
+    },
+    {
+      "index": 9,
+      "name": "Pulp Fiction - Ezchiel 25 Verset 10",
+      "filename": "pulp_fiction_ezechiel.mp3",
+      "uri": "android.resource://fr.mysoundbox/raw/pulp_fiction_ezechiel"
+    },
+    {
+      "index": 10,
+      "name": "Nos jours heureux - Le roi des cons",
+      "filename": "nos_jours_heureux_roi_des_cons.mp3",
+      "uri": "android.resource://fr.mysoundbox/raw/nos_jours_heureux_roi_des_cons"
+    },
+    {
+      "index": 11,
+      "name": "Le 5ème élément - Multipass",
+      "filename": "le_cinquieme_element_multipass.mp3",
+      "uri": "android.resource://fr.mysoundbox/raw/le_cinquieme_element_multipass"
+    }
+  ]
+}
